@@ -1,0 +1,88 @@
+html{ 
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    }
+    body{ 
+    background: #FFFFFF;
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    background: url('"C:\Users\Shamyuktha\Desktop\photos\temp.png"');
+    }
+    /* Frame 2 */
+    #frame2{ 
+    position: absolute;
+    width: 1254px;
+    height: 69px;
+    left: 273px;
+    top: 471px;
+    background: #FFFFFF;
+    }
+    /* sicon.png 1 */
+    #sicon{ 
+    position: absolute;
+    width: 105px;
+    height: 131px;
+    left: 277px;
+    top: 440px;
+    background: url('"C:\Users\Shamyuktha\Desktop\photos\sicon.png"');
+    }
+    /* CHEWINGGUM */
+    #chewingum{ 
+    position: absolute;
+    width: 1053px;
+    height: 184px;
+    left: 299px;
+    top: 187px;
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 150px;
+    line-height: 181px;
+    color: #000000;
+    }
+    /* Frame 3 */
+    #frame3{ 
+    position: absolute;
+    width: 53px;
+    height: 20px;
+    left: 1016px;
+    top: 302px;
+    }
+    /* Group 2 */
+    #group2{ 
+    position: absolute;
+    width: 185px;
+    height: 189px;
+    left: 1237px;
+    top: 191px;
+    }
+    /* Ellipse 1 */
+    #ellipse1{ 
+    position: absolute;
+    width: 185px;
+    height: 189px;
+    left: 1237px;
+    top: 191px;
+    background: #DD7B08;
+    }
+    /* Group 1 */
+    #group1{ 
+    position: absolute;
+    width: 168px;
+    height: 151px;
+    left: 1244px;
+    top: 190px;
+    }
+    /* gp muthu 1 */
+    #gpmuthu1{
+    position: absolute;
+    width: 168px;
+    height: 151px;
+    left: 1244px;
+    top: 190px;
+    background: url('"C:\Users\Shamyuktha\Desktop\photos\gp muthu.png"');
+    }
